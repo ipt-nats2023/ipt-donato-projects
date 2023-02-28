@@ -1,7 +1,7 @@
 # DONATO`S project  
 WELCOME TO IPT_on_GITHUB
 ## Authors 
-- (donato)(hhtp://github.com/ipt-nats2023)
+- [donato](hhtp://github.com/ipt-nats2023)
 ## Sample code
 printf("hellow word);
 ## how to install  
