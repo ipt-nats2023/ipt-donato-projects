@@ -1,11 +1,11 @@
-# ipt-donato-projects
-welcome to my github
-## Authors
--[donato](https://github.com/ipt-nats2023/ipt-donato-projects.git)
+# DONATO`S project  
+WELCOME TO IPT_on_GITHUB
+## Authors 
+- (donato)(hhtp://github.com/ipt-nats2023)
 ## Sample code
-printf("hellow world");
-## how to install
-step 1: Download the zip file or usse the git lone 
+printf("hellow word);
+## how to install  
+step 1: Download the zip file oe use the git clone
 
-commit1
-commit2
+commit 1
+commit 2
