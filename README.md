@@ -6,3 +6,6 @@ welcome to my github
 printf("hellow world");
 ## how to install
 step 1: Download the zip file or usse the git lone 
+
+comment1
+comment2
